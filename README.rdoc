@@ -1,1 +1,1 @@
-Testing Backbone.js with raisl
+Testing Backbone.js with rails
